@@ -15,7 +15,8 @@ This project is designed to process NFL All-22 football footage using computer v
 ---
 
 ## 📁 Project Structure
-mask-rcnn-all-22-footage/ ├── main.py # Main script for processing videos <br>
+mask-rcnn-all-22-footage/ <br>
+├── main.py # Main script for processing videos <br>
 ├── requirements.txt # Python dependencies <br>
 ├── README.md # Project documentation <br>
 ├── input_videos/ # Folder to place raw All-22 footage (create this folder yourself) <br>
