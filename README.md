@@ -52,12 +52,12 @@ python main.py
 ## 🔁 Workflow Summary
 
 1. Model Loading: Load pretrained Mask R-CNN from Detectron2’s model zoo.
-2. Video Input: Load .mp4 files from input_videos/.
+2. Video Input: Load .mp4 files from input_videos/. - https://youtu.be/1LeQUz8dF60
 3. Frame Skipping: Reduce processing time by skipping every n frames.
 4. Detection: Apply player segmentation on resized frames.
 5. Line Detection: Use Hough Transform and Kalman Filter for yard line tracking.
 6. Frame Export: Save visualized detections as .jpg images.
-7. Video Compilation: Compile frames into a single .mp4 output.
+7. Video Compilation: Compile frames into a single .mp4 output. - https://youtu.be/gRzCIjW2y84
 
 ## 📌 Important Paths (Editable)
 Update the following paths inside main.py to suit your machine:
