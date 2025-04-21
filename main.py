@@ -1,8 +1,3 @@
----
-
-### 🔄 Updated Python Script (`main.py`)
-
-```python
 import sys
 import cv2
 import os
