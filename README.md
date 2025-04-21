@@ -74,9 +74,9 @@ Garbage collection (gc.collect()) after processing batches of frames<br>
 Batched processing improves performance in long videos<br>
 
 ## 🛠️ Future Improvements
-Custom segmentation for yard lines and hash marks using fine-tuned Mask R-CNN
-Formation recognition and play classification
-Integration into a Streamlit dashboard for web-based interaction
+Custom segmentation for yard lines and hash marks using fine-tuned Mask R-CNN<br>
+Formation recognition and play classification<br>
+Integration into a Streamlit dashboard for web-based interaction<br>
 
 ## 🧑‍💻 Author
 Made by Velan
