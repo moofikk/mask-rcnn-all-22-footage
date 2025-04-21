@@ -68,10 +68,10 @@ final_output_path = "output_video/output_video.mp4"
 ```
 ## 🧠 Optimizations
 
-Resizing frames to reduce memory load (frame_resize=(640, 360))
-Skipping frames using skip_frames=5 to reduce unnecessary computation
-Garbage collection (gc.collect()) after processing batches of frames
-Batched processing improves performance in long videos
+Resizing frames to reduce memory load (frame_resize=(640, 360))<br>
+Skipping frames using skip_frames=5 to reduce unnecessary computation<br>
+Garbage collection (gc.collect()) after processing batches of frames<br>
+Batched processing improves performance in long videos<br>
 
 ## 🛠️ Future Improvements
 Custom segmentation for yard lines and hash marks using fine-tuned Mask R-CNN
